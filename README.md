@@ -6,12 +6,6 @@
 
 👩🏻‍💻 Working Student at [Solactive AG](https://www.solactive.com/).</br>
 👩🏻‍🎓 Computer Science student at the [University of Applied Sciences Zwickau](https://www.whz.de/english/university/about-us/), Germany </br>
-🌍 I love learning languages on Duolingo </br>
-<div align=center>
-  <a align=center href="https://github.com/KevzPeter/Duolingo-Stats-Card">
-    <img src="https://duolingo-stats-card.vercel.app/api?username=saadat30&sort=xp" alt="Logo">
-  </a>
- </div>
 
 
  <hr>
