@@ -1,6 +1,6 @@
- <h2 align=center> Hey, I am Saadat! 💌</h2>
- <!-- <em align=center> Frontend developer passionate about building <b>responsive web pages</b> and turning <b>Figma designs</b> into clean, functional code.</br>
-</em></br> -->
+ <!--<h2 align=center> Hey, I am Saadat! 💌</h2>
+  <em align=center> Frontend developer passionate about building <b>responsive web pages</b> and turning <b>Figma designs</b> into clean, functional code.</br>
+</em></br>
 
 
 
@@ -23,6 +23,6 @@
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
   <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
   <img src="https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white">
-</p>
+</p> -->
 
 
