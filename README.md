@@ -1,6 +1,6 @@
  <h2 align=center> Hey, I am Saadat! 💌</h2>
- <em align=center> Frontend developer passionate about building <b>responsive web pages</b> and turning <b>Figma designs</b> into clean, functional code.</br>
-</em></br>
+ <!-- <em align=center> Frontend developer passionate about building <b>responsive web pages</b> and turning <b>Figma designs</b> into clean, functional code.</br>
+</em></br> -->
 
 
 
